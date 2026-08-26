@@ -1,1 +1,1 @@
-# qeoyio-github-io
+# qeoyio.github.io
