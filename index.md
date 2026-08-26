@@ -1,4 +1,4 @@
-# Welcome to My Portfolio Hello! My name is joseph yilma.
+# Welcome to My Portfolio Hello! My name is JY.
 ## Projects
 - Project 1: Description
 - Project 2: Description
