@@ -1,9 +1,9 @@
 <div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-# About Me
-Hello! I am JY. My top carrer choice is Anesthesiology because I want to graduate medical school and get a successful career, even though the job is very stressful and hard.
+<h1>About Me</h1>
+<p>Hello! I am JY. My top carrer choice is Anesthesiology because I want to graduate medical school and get a successful career, even though the job is very stressful and hard.</p>
 
-## Navigation
-[Notebook](notebook.md) [Home](index.md)
+<h2>Navigation</h2>
+<a href="/notebook.html">Notebook</a> <a href="/">Home</a>
 
 </div>
